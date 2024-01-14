@@ -31,15 +31,21 @@ Chat Multiple PDFs is a collaborative platform that integrates chat functionalit
 ## Getting Started
 
 1. **Clone the Repository:**
+
    ```bash
-   git clone https://github.com/your-username/chat-multiple-pdfs.git
+   git clone https://github.com/rahulbhoyar1995/chat-multiple-pdfs.git
    cd chat-multiple-pdfs
    ```
+2. Install the dependencies :
 
+   ```
+   pip install -r requirements.txt
+   ```
+3. Run the below command :
 
-
-
-
+```
+   streamlit run app.py
+```
 
 
 
